@@ -1,11 +1,12 @@
 require 'rails_helper'
 
 RSpec.describe "Cats", type: :request do
+
   describe "GET /index" do
-    it" gets a list of dogs" do
-      Dog.create(
+    it"gets a list of cats" do
+      Cat.create(
         name: 'Pumyra',
-        age: 24 ,
+        age: 24,
         enjoys: 'Stalking',
         image: 'https://media.istockphoto.com/photos/crouching-mountain-lion-picture-id898582532?b=1&k=20&m=898582532&s=170667a&w=0&h=R468xO9E4TmZu7pKO2DXP97NtWuhcz6D6_FlwG26s6U='
       ) 
