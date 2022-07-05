@@ -8,22 +8,22 @@
 
 cats = [
     {
-      name: 'Daisy',
-      age: 2,
-      enjoys: 'Long naps on the couch, and a warm fire.',
-      image: 'https://unsplash.com/photos/VpFhcbrFbFo'
+      name: 'Wily-Kit',
+      age: 3,
+      enjoys: 'Getting into trouble.',
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYIGk9Sb3dYyKY_jhLdAUIKcuS3TuwOlc9pg&usqp=CAU'
     },
     {
-      name:'George',
-      age: 5,
-      enjoys: 'Food mostly, really just food.',
-      image: 'https://images.unsplash.com/photo-1520825944622-a66c85325472?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGRvZ3MlMjBjbG9zZSUyMHVwfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60'
+      name:'Wily-Kat',
+      age: 3,
+      enjoys: 'Getting into trouble.',
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTo41UO7wHX6rqGBGmRo1za55KqdIz-xcH-g&usqp=CAU'
     },
     {
-      name: 'Jack',
-      age: 5,
-      enjoys: 'Furrrrociously hunting bugs.',
-      image: 'https://images.unsplash.com/photo-1521309569781-7bcd429eb2f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGRvZ3MlMjBjbG9zZSUyMHVwfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60'
+      name: 'Bolo',
+      age: 4,
+      enjoys: 'Starting trouble.',
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2EXgnNI7sL8mBr2l3dPw_5-sMnZw23511DA&usqp=CAU'
     }, 
   ]
   
